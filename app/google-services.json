@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350854563624",
+    "project_id": "projectbrainvire-f5576",
+    "storage_bucket": "projectbrainvire-f5576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350854563624:android:b0d585df36d007d298721d",
+        "android_client_info": {
+          "package_name": "com.example.projectbrainvire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350854563624-lhdjsri2bn68ugm7fviqi7mttgtfgp5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kvdWQgHR7FRP4OPpOAs7Fd6TQaLuTQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350854563624-lhdjsri2bn68ugm7fviqi7mttgtfgp5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
